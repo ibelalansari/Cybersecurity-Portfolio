@@ -152,23 +152,21 @@ Cybersecurity Portfolio
 
 ---
 
-## Repository Link
+🔗 **Repository:** https://github.com/ibelalansari/ethical-hacking
 
- https://github.com/ibelalansari/ethical-hacking
-
- https://github.com/ibelalansari/soc-analyst
+🔗 **Repository:** https://github.com/ibelalansari/soc-analyst
  
 ---
 
-## Contact
+🤝 **## Contact**
 
-GitHub: https://github.com/ibelalansari
+🐙 **GitHub:** https://github.com/ibelalansari
 
-LinkedIn: https://linkedin.com/in/ibelalansari
+💼 **LinkedIn:** https://linkedin.com/in/ibelalansari
 
-Email: belalansari.bd@gmail.com
+📧 **Email:** belalansari.bd@gmail.com
 
-Location: Dhaka, Bangladesh
+📍 **Location:** Dhaka, Bangladesh
 
 ---
 
